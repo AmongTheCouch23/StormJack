@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/StormJack/static/js/main.c515ee02.js",
+    "index.html": "/StormJack/index.html",
+    "main.c515ee02.js.map": "/StormJack/static/js/main.c515ee02.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c515ee02.js"
+  ]
+}
